@@ -1,0 +1,28 @@
+.list-item {
+    display: flex;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 20px;
+}
+
+.list-item img {
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+
+.grid-item {
+    margin: 20px;
+    border: 1px solid black;
+    float: left;
+    width: 400px;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+}
+
+.grid-item .img-desc {
+    padding: 15px;
+}
